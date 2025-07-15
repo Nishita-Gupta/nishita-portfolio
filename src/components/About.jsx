@@ -1,6 +1,6 @@
 function About() {
   return (
-    <section className="px-10 py-20 text-center bg-white">
+    <section id="about" className="px-10 py-20 text-center bg-white">
       <h2 className="text-4xl font-bold text-center text-purple-700 mb-4">About Me</h2>
       <p className="text-lg text-gray-700 max-w-2xl mx-auto">
         I’m Nishita Gupta, an undergraduate student pursuing Computer Science and Engineering at 
