@@ -1,4 +1,10 @@
 const certifications = [
+    {
+    title: "Data Science & Business Analytics Course",
+    issuer: "Blackbucks Education",
+    date: "May 2025",
+    image: "/certs/bb-cert.png",
+  },
   {
     title: "Python Programming Certification",
     issuer: "Kaggle",
@@ -10,12 +16,6 @@ const certifications = [
     issuer: "MathWorks",
     date: "September 2023",
     image: "/certs/matlab-cert.png",
-  },
-  {
-    title: "Data Science & Business Analytics Course",
-    issuer: "Blackbucks Education",
-    date: "December 2024",
-    image: "/certs/bb-cert.png",
   },
 ];
 
