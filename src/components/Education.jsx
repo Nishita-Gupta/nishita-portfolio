@@ -14,7 +14,7 @@ function Education() {
     },
     {
       degree: "High School (Class 10)",
-      institution: "BHartiya Vidya Bhavans Public School",
+      institution: "Bhartiya Vidya Bhavans Public School",
       duration: "2020",
       details: "Board: CBSE | Percentage: 86.2%",
     },
