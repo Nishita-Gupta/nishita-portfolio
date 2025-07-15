@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section id="home" className="min-h-screen bg-purple-100 flex flex-col justify-center items-center px-10">
+    <section id="home" className="pt-20 min-h-screen bg-purple-100 flex flex-col justify-center items-center px-10">
 
       <h2 className="text-4xl font-bold text-purple-800 mb-5">Hey, I'm Nishita Gupta 👋</h2>
       <p className="text-xl text-purple-700 mb-7">
